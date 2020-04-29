@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR brown]*** LANÇAMENTOS ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]LANÇAMENTOS[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia801408.us.archive.org/12/items/series_20200429/lancamentos.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -11,7 +11,7 @@
 
 <channels>
 <channel>
-<name>[COLOR brown]*** DRAMA ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]DRAMA[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/comedia-romantica/DRAMA.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -22,7 +22,7 @@
 
 <channels>
 <channel>
-<name>[COLOR brown]*** SUSPENSE ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]SUSPENSE[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/comedia-romantica/SUSPENSE.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -33,7 +33,7 @@
 
 <channels>
 <channel>
-<name>[COLOR brown]*** TERROR ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]TERROR[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/comedia-romantica/TERROR.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -44,7 +44,7 @@
 
 <channels>
 <channel>
-<name>[COLOR brown]*** NACIONAL ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]NACIONAL[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/comedia-romantica/NACIONAL.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -56,7 +56,7 @@
 
 <channels>
 <channel>
-<name>[COLOR brown]*** COMÉDIA ROMANTICA ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]COMEDIA[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/comedia-romantica/COMEDIA%20ROMANTICA.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -67,7 +67,7 @@
 
 <channels>
 <channel>
-<name>[COLOR brown]*** DESENHOS ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR brown]DESENHOS[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/comedia-romantica/DESENHOS.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
