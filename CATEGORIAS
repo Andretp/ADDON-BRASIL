@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR red]*** FILMES ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR red]FILMES[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/12/items/series_20200429/filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Andretp/ADDON-BRASIL/master/Filmes</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
 <info>
 
 
-[COLOR yellow]*** LANÇAMENTOS ***[/COLOR]</info>
+[COLOR yellow]*** LANCAMENTOS ***[/COLOR]</info>
 </channel>
 </channels>
 <thumbnail>https://ia801408.us.archive.org/12/items/series_20200429/lancamentos.jpg</thumbnail>
@@ -18,7 +18,7 @@
 
 <channels>
 <channel>
-<name>[COLOR dodgerblue]*** SERIES ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR dodgerblue]SERIES[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia801408.us.archive.org/12/items/series_20200429/series.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellowgreen]*** TORRENT ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR yellowgreen]TORRENT[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia801408.us.archive.org/12/items/series_20200429/torrent.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
@@ -44,7 +44,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]*** ANIMES ***[/COLOR]</name>
+<name>[COLOR yellow]***[/COLOR][COLOR indigo]ANIMES[/COLOR][COLOR green]***[/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/12/items/series_20200429/animes.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/9/items/psx-20200427-224805/PSX_20200427_224805.jpg</fanart>
