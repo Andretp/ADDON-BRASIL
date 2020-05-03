@@ -1,54 +1,35 @@
-<item>
-<title>[COLOR green]***[/COLOR][COLOR white]LANCAMENTOS 2020[/COLOR][COLOR yellow]***[/COLOR]<title>
-<thumbnail>https://ia801408.us.archive.org/12/items/series_20200429/lancamentos.jpg<thumbnail>
-<link>http://</link>
-<info>
-
-by ANDRE
-[COLOR green]1[/COLOR]- LANCAMENTOS 2020 -[COLOR yellow]1[/COLOR]<info>
-<item>
-
-
+MODELOS COM VARIOS LINKS
 
 <item>
-<title>[B]Rocketman - [COLOR green](2020)[/COLOR] - [COLOR yellow](HD720)[/COLOR] - DUBLADO[/B]<title> 
-<link><link>
-<thumbnail><thumbnail>
-<fanart>http://</fanart>
-<info><info>
+<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2020) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
-<item>
-
-<item>
-<title>[B]Rocketman - [COLOR green](2020)[/COLOR] - [COLOR yellow](HD720)[/COLOR] - DUBLADO[/B]<title> 
-<link><link>
-<link><link>
-<link><link>
-<link><link>
-<thumbnail><thumbnail>
-<fanart>http://</fanart>
-<info><info>
 
 
+
+MODELO GDRIVE DE APENAS UM LINK
 
 
 <item>
-<title>[B]Rocketman - [COLOR green](2020)[/COLOR] - [COLOR yellow](HD720)[/COLOR] - DUBLADO[/B]<title> 
-<link><link>
-<thumbnail><thumbnail>
-<fanart>http://</fanart>
-<info><info>
+<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2020) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
-<item>
+
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
 
 <item>
-<title>[B]Rocketman - [COLOR green](2020)[/COLOR] - [COLOR yellow](HD720)[/COLOR] - DUBLADO[/B]<title> 
-<link><link>
-<link><link>
-<link><link>
-<link><link>
-<thumbnail><thumbnail>
-<fanart>http://</fanart>
-<info><info>
+<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2020) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
-<item>
