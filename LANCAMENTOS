@@ -1,17 +1,3 @@
-MODELOS COM VARIOS LINKS
-
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2020) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-
-
 MODELO GDRIVE DE APENAS UM LINK
 
 
@@ -24,12 +10,3 @@ MODELO GDRIVE DE APENAS UM LINK
 </item>
 
 
-MODELO UNIVERSAL DE APENAS UM LINK
-
-
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2020) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
